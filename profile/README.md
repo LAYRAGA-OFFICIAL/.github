@@ -70,3 +70,36 @@ We focus on:
 ---
 
 ## 🗺️ Roadmap
+
+---
+
+## 🤝 Want to Collaborate?
+
+We're always open to:
+- 💡 **Ideas & feedback** — What should we build next?
+- 🐛 **Bug reports** — Help us improve
+- 🤝 **Collaboration** — Work with us on a project
+- ⭐ **Support** — Star & share our projects
+
+**Reach out anytime!**
+
+---
+
+## 📫 Contact
+
+- 🐙 **GitHub:** [@layraga-official](https://github.com/layraga-official)
+- 📧 **Email:** hello@layraga.com *(coming soon)*
+- 🐦 **Twitter/X:** [@layraga_official](https://twitter.com/layraga_official) *(coming soon)*
+- 🌐 **Website:** [layraga.com](https://layraga.com) *(coming soon)*
+
+---
+
+<div align="center">
+
+### ⚡ LAYRAGA OFFICIAL
+
+**Building apps that matter.**
+
+*Est. 2026 · Made with ❤️ in Indonesia 🇮🇩*
+
+</div>

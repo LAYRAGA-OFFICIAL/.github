@@ -1,7 +1,6 @@
 <div align="center">
   
 <img src="https://github.com/LAYRAGA-OFFICIAL/.github/blob/main/profile/logo.png" alt="LAYRAGA OFFICIAL Logo" width="180" />
-  
 # ⚡ LAYRAGA OFFICIAL
 
 ### Building apps that matter.
